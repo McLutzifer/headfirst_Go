@@ -20,4 +20,7 @@ func main() {
 	fmt.Println(reflect.TypeOf(true))
 	fmt.Println(reflect.TypeOf("Hello, Go"))
 	fmt.Println(reflect.TypeOf('A'))
+
+	var test string = string(1174)
+	fmt.Println(test)
 }
