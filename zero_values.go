@@ -8,8 +8,8 @@ func main() {
 	var myString string
 	var myBool bool
 
-	fmt.Println(myInt)
-	fmt.Println(myFloat)
-	fmt.Println(myString)
-	fmt.Println(myBool)
+	fmt.Println(myInt)    // 0
+	fmt.Println(myFloat)  // 0
+	fmt.Println(myString) // ""
+	fmt.Println(myBool)   // false
 }
