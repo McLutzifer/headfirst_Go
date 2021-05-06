@@ -2,12 +2,11 @@ package main
 
 import (
 	"fmt"
-	"go/ast"
 )
 
 func main() {
 	quantity := 4
-	length, width := 1.2, 2, 4
+	length, width := 1.2, 2.4
 	customerName := "Damon Cole"
 
 	fmt.Println(customerName)
